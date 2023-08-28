@@ -1,1 +1,1 @@
-FROM ghcr.io/querycap/istio/istio-envoy-build-env:0.1.0
+FROM gcr.io/istio-testing/build-tools-proxy:release-1.6-2020-05-08T22-06-04
